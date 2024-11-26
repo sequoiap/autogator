@@ -1,6 +1,6 @@
 appdirs==1.4.4
 numpy==1.21.5
-scipy==1.7.3
+scipy==1.10.0
 matplotlib==3.5.1
 pydantic==1.8.2
 # PySide2==5.15.0
