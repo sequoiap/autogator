@@ -1,5 +1,5 @@
 appdirs==1.4.4
-numpy==1.21.5
+numpy==1.22.0
 scipy==1.7.3
 matplotlib==3.5.1
 pydantic==1.8.2
